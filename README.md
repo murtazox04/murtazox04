@@ -1,30 +1,17 @@
+# 👨‍💻 Murtazo Khurramov
 
-## 🔧 Technologies & Tools
+Hi there! My name is Murtazo and I'm a python developer from Uzbekistan. I enjoy working with Django, DRF, FastAPI, SQLAlchemy, Aiogram, NumPY, Pandas.
+## Projects
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Editor-PyCharm-informational?style=flat&logo=pycharm&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Editor-Sublime_Text-informational?style=flat&logo=sublime-text&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=django&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Framework-Django_REST_framework-informational?style=flat&logo=django-rest-framework&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Framework-Flask-informational?style=flat&logo=flask&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Framework-FastAPI-informational?style=flat&logo=fastapi&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Tool-GitHub-informational?style=flat&logo=github&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Tool-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=6aa6f8)
+Here are some projects I've created and have had the opportunity to work on with brilliant people.
 
+| Project name                                            | Description                                                                                 |
+| ------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| [kelishamiz.uz](https://kelishamiz.uz/)                 | Currently in beta, developed using Django and DRF to post and find classifieds.             |
+| [bilolbek-travel.uz](https://bilolbek-travel.uz/)       | Developed using Django and DRF to buy travel packages and learn about travel using the site.|
+| [surxonpi.uz](https://surxonpi.uz/)                     | Developed using Django and DRF for visiting application and data storage of SurxonPI J.S.   |
 
-## &#x1f4c8; GitHub Stats
+## Contacts
 
-<a href="https://github.com/murtazox04/murtazox04">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murtazox04&hide=c%2B%2B,c,html&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Murtazo's GitHub Stats" />
-</a>
-
-<a href="https://github.com/murtazox04/murtazox04">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=murtazox04&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Murtazo's GitHub Stats" />
-</a>
-
+* [Telegram](https://t.me/unnamed_userr/)
+* [LinkedIn](https://linkedin.com/in/murtazo-xurramov/)
