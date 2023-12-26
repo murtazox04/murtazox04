@@ -1,6 +1,6 @@
 # 👨‍💻 Murtazo Khurramov
 
-Hi there! My name is Murtazo and I'm a python developer from Uzbekistan. I enjoy working with Django, DRF, FastAPI, SQLAlchemy, Aiogram, NumPY, Pandas.
+Hi there! My name is Murtazo and I'm a python developer from Uzbekistan. I enjoy working with Django, DRF, FastAPI, SQLAlchemy, Aiogram, NumPY, Pandas, Flet(basic)
 ## Projects
 
 Here are some projects I've created and have had the opportunity to work on with brilliant people.
