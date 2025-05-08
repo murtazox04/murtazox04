@@ -16,9 +16,7 @@ Hi there! I'm Murtazo, a backend engineer from Uzbekistan passionate about build
 | Project                                                   | Description                                                                                              |
 | --------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
 | **Commeta Auth**                                          | A high-performance Rust + ScyllaDB authentication microservice designed for 1-2ms response times.         |
-| **Sharh**                                                 | A robust review aggregation system scraping Google, Yandex, 2GIS, AppStore, Play Market (Python + Celery). |
-| **Hissa**                                                 | A Django-based platform for users to request financial help from funds, with multi-step application flow. |
-| **Metsenat**                                              | Fund management system with powerful reporting, Excel exports, and real-time notification modules.         |
+| **Review Scraper**                                        | A robust review aggregation system scraping Google, Yandex, 2GIS, AppStore, Play Market (Python + Celery).|
 | **FinanceBuddy** (WIP)                                    | Personal finance tracker bot with real-time statistics, built with Django + Aiogram.                      |
 
 ## 🛠 Skills Highlight
