@@ -34,6 +34,6 @@ Hi there! I'm Murtazo, a backend engineer from Uzbekistan passionate about build
 
 - [Telegram](https://t.me/murtazo_xurramov/)
 - [LinkedIn](https://linkedin.com/in/murtazo-xurramov/)
-- ✉️ Email: murtazoxurramov@gmail.com
+- ✉️ Email: murtazox04@gmail.com
 
 ---
